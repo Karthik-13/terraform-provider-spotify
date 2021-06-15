@@ -1,12 +1,9 @@
 package main
 
 import (
-	"context"
-	"flag"
-	"log"
-
+	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
-	"terraform-provider-spotify/spotify"
+	"github.com/karthik-13/terraform-provider-spotify/spotify"
 )
 
 // Run "go generate" to format example terraform files and generate the docs for the registry/website
@@ -31,7 +28,7 @@ var (
 func main() {
 	plugin.Serve(&plugin.ServeOpts{
 		ProviderFunc: func() *schema.Provider { 
-			spotify.Provider()
+			return spotify.Provider()
 		},
 	})
 }
