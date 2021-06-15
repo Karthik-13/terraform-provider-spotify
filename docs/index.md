@@ -1,18 +1,18 @@
 ---
-page_title: "scaffolding Provider"
+page_title: "spotify Provider"
 subcategory: ""
 description: |-
   
 ---
 
-# scaffolding Provider
+# spotify Provider
 
 
 
 ## Example Usage
 
 ```terraform
-provider "scaffolding" {
+provider "spotify" {
   # example configuration here
 }
 ```

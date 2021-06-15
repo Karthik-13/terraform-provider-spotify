@@ -336,6 +336,8 @@ github.com/zclconf/go-cty v1.7.1/go.mod h1:VDR4+I79ubFBGm1uJac1226K5yANQFHeauxPB
 github.com/zclconf/go-cty v1.8.2 h1:u+xZfBKgpycDnTNjPhGiTEYZS5qS/Sb5MqSfm7vzcjg=
 github.com/zclconf/go-cty v1.8.2/go.mod h1:vVKLxnk3puL4qRAv72AO+W99LUD4da90g3uUAzyuvAk=
 github.com/zclconf/go-cty-debug v0.0.0-20191215020915-b22d67c1ba0b/go.mod h1:ZRKQfBXbGkpdV6QMzT3rU1kSTAnfu1dO8dPKjYprgj8=
+github.com/zmb3/spotify v1.2.0 h1:W7/zFMcyJpZKdGIiIfUeOmbYNuNetWB7aUSWflpUjeM=
+github.com/zmb3/spotify v1.2.0/go.mod h1:GD7AAEMUJVYc2Z7p2a2S0E3/5f/KxM/vOnErNr4j+Tw=
 go.opencensus.io v0.21.0/go.mod h1:mSImk1erAIZhrmZN+AvHh14ztQfjbGwt4TtuofqLduU=
 go.opencensus.io v0.22.0/go.mod h1:+kGneAE2xo2IficOXnaByMWTGM9T73dGwxeWcUqIpI8=
 go.opencensus.io v0.22.2/go.mod h1:yxeiOL68Rb0Xd1ddK5vPZ/oVn4vY4Ynel7k9FzqtOIw=
